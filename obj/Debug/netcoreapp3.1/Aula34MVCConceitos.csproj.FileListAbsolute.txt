@@ -1,0 +1,13 @@
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\bin\Debug\netcoreapp3.1\Aula34MVCConceitos.exe
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\bin\Debug\netcoreapp3.1\Aula34MVCConceitos.deps.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\bin\Debug\netcoreapp3.1\Aula34MVCConceitos.runtimeconfig.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\bin\Debug\netcoreapp3.1\Aula34MVCConceitos.runtimeconfig.dev.json
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\bin\Debug\netcoreapp3.1\Aula34MVCConceitos.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\bin\Debug\netcoreapp3.1\Aula34MVCConceitos.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\obj\Debug\netcoreapp3.1\Aula34MVCConceitos.csprojAssemblyReference.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\obj\Debug\netcoreapp3.1\Aula34MVCConceitos.AssemblyInfoInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\obj\Debug\netcoreapp3.1\Aula34MVCConceitos.AssemblyInfo.cs
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\obj\Debug\netcoreapp3.1\Aula34MVCConceitos.csproj.CoreCompileInputs.cache
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\obj\Debug\netcoreapp3.1\Aula34MVCConceitos.dll
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\obj\Debug\netcoreapp3.1\Aula34MVCConceitos.pdb
+C:\Users\Lucca\Documents\Projeto\Testando C#\Aula34MVCConceitos\obj\Debug\netcoreapp3.1\Aula34MVCConceitos.genruntimeconfig.cache
